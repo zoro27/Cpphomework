@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "递归求x的y次幂", "递归求x的y次幂\递归求x的y次幂.vcxproj", "{5943A55A-D18F-4824-85D4-CFCE90D88EFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5943A55A-D18F-4824-85D4-CFCE90D88EFB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5943A55A-D18F-4824-85D4-CFCE90D88EFB}.Debug|Win32.Build.0 = Debug|Win32
+		{5943A55A-D18F-4824-85D4-CFCE90D88EFB}.Release|Win32.ActiveCfg = Release|Win32
+		{5943A55A-D18F-4824-85D4-CFCE90D88EFB}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
